@@ -1,4 +1,7 @@
-Video Ideas
+---
+title: Video Ideas
+---
+
 - How to be an imperfectionist
 - How to fold a fitted sheet
 - How to wake up at 5am every morning
