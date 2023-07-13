@@ -1,0 +1,57 @@
+Video Ideas
+- How to be an imperfectionist
+- How to fold a fitted sheet
+- How to wake up at 5am every morning
+- How to exercise every day
+- How to read every day
+- How to write every day
+- How to quit eating sugar
+- How to build habits and discipline
+- How to be a filmmakaer
+- How to be an architect
+- How to be a game developer
+- How to go back to college
+- How to learn how to draw
+- How to learn how to learn
+- The lessons developers learned from Breath of the Wild, and what I hope they learn from tears of the kingdom
+- Stories that can only be told in games
+- The aesthetics of homebrew games
+- The aesthetics of iOS Jailbreaking
+- Richard Linklater: Sculpting in Time
+- Werner Herzog's Rogue Film School
+- Applying Tom Sachs' Ten Bullets to my real life
+- Magical Realism in America - How We Talk About the places we live
+  - Kentucky Route Zero, American Gods, Twin Peaks, Gravity Falls
+- Walking to 
+- Designing the Criterion Collection of Video Games
+  - Bioshock
+  - Shadow of the Colossus
+  - The Last of Us Collection
+  - Earthbound
+  - Ico
+  - Firewatch
+  - Myst
+  - Beyond Good and Evil
+  - Death Stranding
+  - Kentucy Route Zero
+  - Grim Fandango
+  - Celeste
+  - The Stanley Parable
+  - Okami
+  - Portal and Portal 2
+  - Half Life Collection
+  - Mirror's Edge
+  - Cave Story
+  - Control
+  - Max Payne
+  - Elden Ring
+  - Dishonored Collection
+  - Red Dead Redemption Collection
+  - Outer Wilds
+
+Art Project Ideas
+  - Icarus Game: No visible controls, art style inspired by Kanye West - Only One video game. Fly as close to the sun as you can, then you fall off screen and the wax hardens and comes back to an idle, flying straight forward state
+  - Super-hearing room - room where very small sounds are magnified very loudly. Little interactive exhibits making small sounds you are used to in the everyday much larger. Grateful Dead wall of sound trick to prevent feedback, and a compressor to make sure the loudest sounds don't become deafening
+  - Broadway Boogie-Woogie Clock - Turn each color band into a conveyor belt that will recreate the original painting every 100 years (the belts turn at different speeds)
+  - Video game installation where you have to stand close to a wall with a game projected all the way across it - so that you physically have to turn your head to see what is going on in different areas
+  - 
