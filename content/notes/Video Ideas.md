@@ -58,3 +58,21 @@ Art Project Ideas
   - Broadway Boogie-Woogie Clock - Turn each color band into a conveyor belt that will recreate the original painting every 100 years (the belts turn at different speeds)
   - Video game installation where you have to stand close to a wall with a game projected all the way across it - so that you physically have to turn your head to see what is going on in different areas
   - 
+
+Short Story Ideas
+- The Inbetween
+  - INBETWEEN JOBS
+    - Research Lab building simulated worlds but cant simulate people. The sims are never the same between generations and don't ask questions - the marker of higher order thought. A lab assistant explores the simulation when he suddenly sees a familiar face - and in a mirace of punctuation, "hi, how are you?".
+    - The lab assistant uses the simulation to practice talking to people 
+    - The resolution is that they haven't been building simulations at all - theyve been opening partial gates to the inbetween. 
+  - MANIFESTO, TEXAS
+    - A guy at a downtown coffee shop gets his backpack stolen. He follows the thief into a bookstore, where he loses track of him amidst the stacks AND THE BOOKSTORE JUST KEEPS GOING
+    - Eventually the books start to have stickers on the spines
+    - Eventually he comes out from a forest of books into a clearing - the check out desk of a public library - and it's night
+    - There is a bazaar going on outside, and the character sees the contents of his bag strewn across a rug in the trunk of a station wagon
+  - CLASSICAL MECHANICS
+    - University researching a magic system based on the laws of physics - you can't make the impossible happen, but you can fudge the numbers
+    - Electromagnetism, Hydrodynamics, Thermodynamics, and Quantum Physics
+    - OR Conservation Laws, Laws of classical mechanics, laws of gravitation and relativity, thermodynamics, electromagnetism, photonics, laws of quantum mechanics, and radiation laws 
+    - Everyone is born with the ability, you just have to work REALLY hard to use it (aka study)
+    - 
