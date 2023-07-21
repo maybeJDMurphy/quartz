@@ -1,0 +1,39 @@
+---
+title: Diagram Films
+---
+- The Imperfectionist
+  - Logline: A series of "how-to" videos in the style of Van Neistat/Tom Sachs (industrial/essay) about improving my life - starting from 0. Building my own Truman Show - slowly.
+  - EPISODES:
+    - How to become a filmmaker
+    - How to be an imperfectionist
+    - The Work of Art in the Age of Mechanical Production
+    - How to fold a fitted sheet
+    - How to build a geodesic dome
+    - How to build a geodesic dome
+    - How to wake up at 5am every day
+    - How to work out every day
+    - How to live without a smart phone
+    - How to budget
+    - How to pay off your student loans
+    - How to decorate your apartment
+    - How to make art without a computer
+    - How to build a camper in your car
+- Works Cited
+  - Logline: Reviews of media from a completionist perspective - going through a director's entire filmography
+  - EPISODES:
+    - Reading every book I own
+    - 
+- Portraits
+  - Logline: Ender Zambrano and JD Murphy collaboration - interview/portarit session with interesting people
+  - EPISODES:
+    - David Murphy
+    - Rob Ginn
+    - Joseph Arze
+    - 
+- Instant Coffee / Bean Water
+  - Logline: Short documentaries about baristas, roasters, cafes, and roasteries - in such a way that invites non-coffee drinkers into the world of coffee
+  - EPISODES:
+    - Rob Ginn
+    - Trey C. / Pax and Beneficia
+    - Kasey Headly
+    - 
